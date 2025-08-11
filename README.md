@@ -1,39 +1,242 @@
-<h1 align="center">Hi 👋, I'm Bitto Saha</h1>
-<h3 align="center">1st year CS Student | Competitive Programmer | Developer | Explorer</h3>
+## Hi there
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=idcnys&label=Profile%20views&color=0e75b6&style=flat" alt="idcnys" /> </p>
+I am **Bitto Saha**.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idcnys" alt="idcnys" /></a> </p>
+_Undergrad CS Student | Batch - 24<br>Rajshahi University Of Engineering and Technology_
 
-- 🔭 I’m currently working on [CSE archive RUET](https://csearchive.vercel.app/)
+## GitHub Trophies
 
-- 🌱 I’m currently learning **Nextjs**
+![](https://github-profile-trophy.vercel.app/?username=idcnys&theme=blue_navy&no-frame=false&no-bg=false&margin-w=4)
 
-- 👨‍💻 All of my projects are available at [https://biittosaha.vercel.app/](https://biittosaha.vercel.app/)
+## GitHub Stats
 
-- 📝 I regularly write articles on [https://bitto-saha.blogspot.com/](https://bitto-saha.blogspot.com/)
+![](https://github-readme-stats.vercel.app/api?username=idcnys&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=idcnys&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=idcnys&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 💬 Ask me about **Python, vanilla js, Node js, C++, C**
+## Tech Stack:
 
-- 📫 How to reach me **i.bittosaha@gmail.com**
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 
-- ⚡ Fun fact **I watch movies too much**
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Namecheap](https://img.shields.io/badge/Namecheap-DE3723?style=flat&logo=namecheap&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bittosaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bittosaha" height="30" width="40" /></a>
-<a href="https://fb.com/biiitto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="biiitto" height="30" width="40" /></a>
-<a href="https://instagram.com/_bittosaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_bittosaha" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bittosaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bittosaha" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/biittosaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="biittosaha" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/biittosaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="biittosaha" height="30" width="40" /></a>
-</p>
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat&logo=godot-engine) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=flat&logo=Itch.io&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idcnys&show_icons=true&locale=en&layout=compact" alt="idcnys" /></p>
+## Certificates
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idcnys&show_icons=true&locale=en" alt="idcnys" /></p>
+### Harvard CS50x
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=idcnys&" alt="idcnys" /></p>
+<a href="https://certificates.cs50.io/f53f2311-e34e-49c7-b5df-84e6ee0d4f97.pdf?size=letter">
+  <img src="https://certificates.cs50.io/f53f2311-e34e-49c7-b5df-84e6ee0d4f97.png" alt="CS50x Certificate" width="200"/>
+</a>
+
+### HackerRank Certificates
+
+<div>
+  <a href="https://www.hackerrank.com/certificates/65cc871c80c2">
+    <img src="https://www.biitto.me/cer/pyb.png" alt="Python Basic Certificate" width="200"/>
+  </a>
+  <a href="https://www.hackerrank.com/certificates/6fb50b2c2629">
+    <img src="https://www.biitto.me/cer/psb.png" alt="Problem Solving Basic Certificate" width="200"/>
+  </a>
+  <a href="https://www.hackerrank.com/certificates/50dbc8de5cfb">
+    <img src="https://www.biitto.me/cer/jsb.png" alt="JavaScript Basic Certificate" width="200"/>
+  </a>
+</div>
+
+## Academic Timeline
+
+<div id="timeline">
+  <div>
+    <section class="year">
+      <h3>2022</h3>
+      <section>
+        <h4>15<sup>th</sup> June</h4>
+        <ul>
+          <li><a>Passed SSC</a> from Dhunat Govt. N U pilot model high school, Bogura</li>
+          <li>Securing GPA-5 (Science)</li>
+          <li>With Board Scholarship</li>
+          <br/>
+        </ul>
+      </section>
+    </section>
+    <section class="year">
+      <h3>2023</h3>
+      <section>
+        <h4>1<sup>st</sup> January</h4>
+        <ul>
+          <li>Got Admission to <a href="https://rc.edu.bd">Rajshahi College</a></li>
+          <li>HSC Science</li>
+        </ul>
+      </section>
+    </section>
+    <section class="year">
+      <h3>2024</h3>
+      <section>
+        <h4>15<sup>th</sup> October</h4>
+        <ul>
+          <li><a>Passed HSC</a> from <a href="https://rc.edu.bd">Rajshahi College</a></li>
+          <li>Securing GPA-5 (Science)</li>
+          <li>With Board Scholarship</li>
+        </ul>
+      </section>
+    </section>
+    <section class="year">
+      <h3>2025</h3>
+      <section>
+        <h4>19<sup>th</sup> March</h4>
+        <ul>
+          <li>Started pursuing my Bachelor's degree in Computer Science and Engineering <a>(BSc. Engg. in CSE)</a> at <a href="https://www.ruet.ac.bd/">Rajshahi University of Engineering and Technology (RUET), Bangladesh</a></li>
+        </ul>
+      </section>
+    </section>
+  </div>
+</div>
+
+<style>
+#timeline {
+  position: relative;
+  display: table;
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5rem;
+}
+
+#timeline div:after {
+  content: "";
+  width: 2px;
+  position: absolute;
+  top: 0.5rem;
+  bottom: 0rem;
+  left: 60px;
+  z-index: 1;
+  background: #c5c5c5;
+}
+
+#timeline h3 {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 5rem;
+  color: #888;
+  margin: 0;
+  font-size: 1em;
+  font-weight: 400;
+}
+
+@media (min-width: 62em) {
+  #timeline h3 {
+    font-size: 1.1em;
+  }
+}
+
+#timeline section.year {
+  position: relative;
+}
+
+#timeline section.year:first-child section {
+  margin-top: -1.3em;
+  padding-bottom: 0px;
+}
+
+#timeline section.year section {
+  position: relative;
+  padding-bottom: 1.25em;
+  margin-bottom: 2.2em;
+}
+
+#timeline section.year section h4 {
+  position: absolute;
+  bottom: 0;
+  font-size: 0.9em;
+  font-weight: 400;
+  line-height: 1.2em;
+  margin: 0;
+  padding: 0 0 0 89px;
+  color: #c5c5c5;
+}
+
+@media (min-width: 62em) {
+  #timeline section.year section h4 {
+    font-size: 1em;
+  }
+}
+
+#timeline section.year section ul {
+  list-style-type: none;
+  padding: 0 0 0 75px;
+  margin: -1.35rem 0 1em;
+  max-width: 32rem;
+  font-size: 1em;
+}
+
+@media (min-width: 62em) {
+  #timeline section.year section ul {
+    font-size: 1.1em;
+    padding: 0 0 0 81px;
+  }
+}
+
+#timeline section.year section ul:last-child {
+  margin-bottom: 0;
+}
+
+#timeline section.year section ul:first-of-type:after {
+  content: "";
+  width: 10px;
+  height: 10px;
+  background: #c5c5c5;
+  border: 2px solid #ffffff;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  border-radius: 50%;
+  position: absolute;
+  left: 54px;
+  top: 3px;
+  z-index: 2;
+}
+
+#timeline section.year section ul li {
+  margin-left: 0.5rem;
+}
+
+#timeline section.year section ul li:before {
+  content: "·";
+  margin-left: -0.5rem;
+  padding-right: 0.3rem;
+}
+
+#timeline section.year section ul li:not(:first-child) {
+  margin-top: 0.5rem;
+}
+
+.dark-theme #timeline div:after {
+  background: #30363d;
+}
+
+.dark-theme #timeline section.year section ul:first-of-type:after {
+  background: #58a6ff;
+  border-color: #161b22;
+}
+
+.dark-theme #timeline section.year section h4 {
+  color: #8b949e;
+}
+
+.dark-theme #timeline h3 {
+  color: #8b949e;
+}
+</style>
+
+## Connect With Me:
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/biiitto) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_bittosaha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bittosaha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:i.bittosaha@gmail.com) [![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/biittosaha)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=idcnys&icon=6&color=13)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
