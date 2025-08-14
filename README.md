@@ -6,7 +6,7 @@ I am **Bitto Saha**.
 
 _Undergrad CS Student | Batch - 24<br>Rajshahi University Of Engineering and Technology_
 
-## GitHub Trophies
+## ![Image](https://github.com/user-attachments/assets/b144c84b-a96b-46cd-89e5-1f1e14b42cd6) GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=idcnys&theme=blue_navy&no-frame=false&no-bg=false&margin-w=4)
 
