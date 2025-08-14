@@ -6,11 +6,11 @@ I am **Bitto Saha**.
 
 _Undergrad CS Student | Batch - 24<br>Rajshahi University Of Engineering and Technology_
 
-## ![Image](https://github.com/user-attachments/assets/b144c84b-a96b-46cd-89e5-1f1e14b42cd6) GitHub Trophies
+## GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=idcnys&theme=blue_navy&no-frame=false&no-bg=false&margin-w=4)
 
-## ![Image](https://github.com/user-attachments/assets/11f26660-61fe-455e-9eb0-a2c9a776bde8) GitHub Stats
+## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=idcnys&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=idcnys&theme=dark&hide_border=false)<br/>
@@ -49,7 +49,7 @@ _Undergrad CS Student | Batch - 24<br>Rajshahi University Of Engineering and Tec
 </div>
 
 
-## ![Image](https://github.com/user-attachments/assets/2e756695-16c2-4da1-a263-03fd83a70f33) Connect With Me:
+## Connect With Me:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/biiitto) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_bittosaha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bittosaha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:i.bittosaha@gmail.com) [![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/biittosaha)
 
