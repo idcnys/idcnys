@@ -58,3 +58,10 @@ _Undergrad CS Student | Batch - 24<br>Rajshahi University Of Engineering and Tec
 [![](https://visitcount.itsvg.in/api?id=idcnys&icon=6&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🐍 Watch my contributions get eaten by a Snake!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/1f29c8f1-48be-4626-a1d4-c169395f3d10" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/cac0ddd2-24ee-4f01-92db-3bbbd23feba3" />
+  <img alt="Preview" src="https://github.com/user-attachments/assets/cac0ddd2-24ee-4f01-92db-3bbbd23feba3" />
+</picture>
+
