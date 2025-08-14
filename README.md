@@ -1,6 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=idcnys&color=blue&style=plastic&abbreviated=true)
-## Hi there
-
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 I am **Bitto Saha**.
 
 _Undergrad CS Student | Batch - 24<br>Rajshahi University Of Engineering and Technology_
