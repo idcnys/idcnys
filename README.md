@@ -9,8 +9,6 @@ _Undergrad CS Student | Batch - 24<br>Rajshahi University Of Engineering and Tec
 ![](https://github-profile-trophy.vercel.app/?username=idcnys&theme=blue_navy&no-frame=false&no-bg=false&margin-w=4)
 
 ## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=idcnys&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=idcnys&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=idcnys&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
