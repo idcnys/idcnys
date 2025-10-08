@@ -1,8 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=idcnys&color=blue&style=plastic&abbreviated=true)
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-I am **Bitto Saha**.
-
-_Undergrad CS Student <br>Rajshahi University Of Engineering and Technology, Bangladesh_
+I am an _Undergrad CS Student. <br>Rajshahi University Of Engineering and Technology, Bangladesh_
 
 ## GitHub Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=idcnys&theme=dark&hide_border=false)<br/>
