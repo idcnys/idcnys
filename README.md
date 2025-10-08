@@ -2,11 +2,7 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 I am **Bitto Saha**.
 
-_Undergrad CS Student | Batch - 24<br>Rajshahi University Of Engineering and Technology_
-
-## GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=idcnys&theme=blue_navy&no-frame=false&no-bg=false&margin-w=4)
+_Undergrad CS Student <br>Rajshahi University Of Engineering and Technology, Bangladesh_
 
 ## GitHub Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=idcnys&theme=dark&hide_border=false)<br/>
@@ -22,28 +18,6 @@ _Undergrad CS Student | Batch - 24<br>Rajshahi University Of Engineering and Tec
 
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat&logo=godot-engine) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=flat&logo=Itch.io&logoColor=white)
 
-## ![Image](https://github.com/user-attachments/assets/f136d096-85dd-43d3-a0da-c6eb56fa5139) Certificates
-
-### Harvard CS50x
-
-<a href="https://certificates.cs50.io/f53f2311-e34e-49c7-b5df-84e6ee0d4f97.pdf?size=letter">
-  <img src="https://certificates.cs50.io/f53f2311-e34e-49c7-b5df-84e6ee0d4f97.png" alt="CS50x Certificate" width="200"/>
-</a>
-
-### HackerRank Certificates
-
-<div>
-  <a href="https://www.hackerrank.com/certificates/65cc871c80c2">
-    <img src="https://www.biitto.me/cer/pyb.png" alt="Python Basic Certificate" width="200"/>
-  </a>
-  <a href="https://www.hackerrank.com/certificates/6fb50b2c2629">
-    <img src="https://www.biitto.me/cer/psb.png" alt="Problem Solving Basic Certificate" width="200"/>
-  </a>
-  <a href="https://www.hackerrank.com/certificates/50dbc8de5cfb">
-    <img src="https://www.biitto.me/cer/jsb.png" alt="JavaScript Basic Certificate" width="200"/>
-  </a>
-</div>
-
 
 ## Connect With Me:
 
@@ -53,11 +27,4 @@ _Undergrad CS Student | Batch - 24<br>Rajshahi University Of Engineering and Tec
 
 [![](https://visitcount.itsvg.in/api?id=idcnys&icon=6&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 🐍 Watch my contributions get eaten by a Snake!
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/1f29c8f1-48be-4626-a1d4-c169395f3d10" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/cac0ddd2-24ee-4f01-92db-3bbbd23feba3" />
-  <img alt="Preview" src="https://github.com/user-attachments/assets/cac0ddd2-24ee-4f01-92db-3bbbd23feba3" />
-</picture>
 
