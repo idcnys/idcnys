@@ -3,5 +3,9 @@
 I am an _Undergrad CS Student. <br>Rajshahi University Of Engineering and Technology, Bangladesh_
 
 ## GitHub Stats
-![](https://nirzak-streak-stats.vercel.app/?user=idcnys&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=idcnys&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center" style="margin:0; padding:0;">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=idcnys&theme=dark&hide_border=false" width="600px"/><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=idcnys&show_icons=true&theme=github_dark" width="500px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idcnys&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="380px" />
+</p>
+
