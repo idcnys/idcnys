@@ -4,9 +4,9 @@ I am an _Undergrad CS Student. <br>Rajshahi University Of Engineering and Techno
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=idcnys&theme=dark&hide_border=false" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=idcnys&show_icons=true&theme=github_dark&hide_border=false&hide_title=true" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idcnys&theme=dark&hide_border=false&layout=compact&langs_count=6" height="150px"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=idcnys&theme=github_dark&hide_border=true" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=idcnys&show_icons=true&theme=github_dark&hide_border=true&hide_title=true" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idcnys&theme=github_dark&hide_border=true&layout=compact&langs_count=6" height="150px"/>
 </p>
 
 
