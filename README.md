@@ -1,3 +1,5 @@
+
+
 <h3 align="center">👋 Hi there, I'm Bitto Saha</h3>
 
 <p align="center">
@@ -10,9 +12,9 @@
 
 I'm a passionate **programmer** based in **Bangladesh**. I love building tools that solve real-world problems and exploring new technologies.
 
-- 🔭 I’m currently working on **nothing special**
-- 🌱 I’m currently learning **Well, it changes**
-- 💬 Ask me about **Something i know**
+- 🔭 I’m currently working on **nothing special!**
+- 🌱 I’m currently learning **... Well, it changes.**
+- 💬 Ask me about **something i know xD**
 - 📫 How to reach me: **i.bittosaha@gmail.com**
 - ⚡ Fun fact: **i love debugging more than coding (it was a joke though, laughhh...)**
 
@@ -30,5 +32,7 @@ I'm a passionate **programmer** based in **Bangladesh**. I love building tools t
     </td>
   </tr>
 </table>
+
+
 
 
