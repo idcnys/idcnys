@@ -1,4 +1,14 @@
-## Hi there 👋
+<h3 align="center">👋 Hi there, I'm Bitto Saha</h3>
+
+<p align="center">
+  <a href="https://ibitto.vercel.app">Website</a> •
+  <a href="https://linkedin.com/in/linkedin.com/in/bittosaha">LinkedIn</a> 
+  •
+  <a href="mailto:i.bittosaha@gmail.com">Mail</a>   •
+    <a href="https://linkedin.com/in/linkedin.com/in/bittosaha">Youtube</a> 
+</p>
+
+
 <table align="center">
   <tr>
     <td align="center">
@@ -11,4 +21,5 @@
     </td>
   </tr>
 </table>
+
 
