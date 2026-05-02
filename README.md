@@ -54,7 +54,8 @@
 </table>
 
  <img width="20" alt="gmail-pixel-art" src="https://github.com/user-attachments/assets/188c1111-1690-4f1b-8b74-5dbb5b0cb1fc" /> Explore my repositories, built from the ground up. Enjoy a coffee while you browse! I'm always looking for a positive boost toward new horizons, feel free to star your favorites.
- 
 
-
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=idcnys%2Fidcnys&label=Profile%20Viewers&countColor=%23d9e3f0&style=flat" />
+</p>
 
