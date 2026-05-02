@@ -20,7 +20,7 @@ I'm a passionate **programmer** based in **Bangladesh**. I love building tools t
 - 📫 How to reach me: **i.bittosaha@gmail.com**
 - ⚡ Fun fact: **i love debugging more than coding (it was a joke though, laughhh...)**
 
-###  Here's What I have done so far on github
+###  <img width="30" alt="feuer-fire" src="https://github.com/user-attachments/assets/c324daea-67f5-471b-8715-b671ca452b51" />  Here's What I have done so far on github
 
 <table align="center">
   <tr>
