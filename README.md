@@ -45,3 +45,10 @@ I'm a passionate **programmer** based in **Bangladesh**. I love building tools t
     </td>
   </tr>
 </table>
+
+ <img width="20" alt="gmail-pixel-art" src="https://github.com/user-attachments/assets/188c1111-1690-4f1b-8b74-5dbb5b0cb1fc" /> Explore my repositories, built from the ground up. Enjoy a coffee while you browse! I'm always looking for a positive boost toward new horizons—feel free to star your favorites. <img width="30" alt="player-play" src="https://github.com/user-attachments/assets/eada409f-e065-438c-a881-ebe50be341b0" /> 
+
+
+
+
+
