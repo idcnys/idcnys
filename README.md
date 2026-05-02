@@ -35,6 +35,13 @@ I'm a passionate **programmer** based in **Bangladesh**. I love building tools t
   </tr>
 </table>
 
-
-
-
+<table width="100%">
+  <tr>
+    <td width="70%" align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=idcnys&theme=nord_bright" style="max-width: 100%;">
+    </td>
+    <td width="30%" align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=idcnys&theme=nord_bright&utcOffset=8" style="max-width: 100%;">
+    </td>
+  </tr>
+</table>
