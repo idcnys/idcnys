@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://ibitto.vercel.app">Portfolio</a> •
-  <a href="https://linkedin.com/in/linkedin.com/in/bittosaha">LinkedIn</a> 
+  <a href="https://www.linkedin.com/in/bittosaha/">LinkedIn</a> 
   •
   <a href="mailto:i.bittosaha@gmail.com">Mail</a>   
   •
