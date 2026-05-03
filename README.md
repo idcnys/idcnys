@@ -13,10 +13,9 @@
   <a href="https://ibitto.vercel.app">Portfolio</a> •
   <a href="https://linkedin.com/in/linkedin.com/in/bittosaha">LinkedIn</a> 
   •
-  <a href="mailto:i.bittosaha@gmail.com">Mail</a>   •
-    <a href="https://linkedin.com/in/linkedin.com/in/bittosaha">Youtube</a> 
+  <a href="mailto:i.bittosaha@gmail.com">Mail</a>   
   •
-    <a href="https://ibitto.vercel.app">Resume</a> 
+    <a href="https://drive.google.com/file/d/17RouPBJJMVPwxt6xpCn0ZfJqfZtga2UX/view?usp=drive_link">Resume</a> 
 </p>
 
  I'm a passionate **programmer** based in **Bangladesh**. I love building tools that solve real-world problems and exploring new technologies.
