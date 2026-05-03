@@ -1,8 +1,8 @@
 
-<p align="center">
+<!-- <p align="center">
   <img width="100" alt="mona-github-loading-github" 
        src="https://github.com/user-attachments/assets/09d748dd-8f06-4271-a25d-689bd961f0ef" />
-</p>
+</p> -->
 
 <h3 align="center">
   Hi there 
