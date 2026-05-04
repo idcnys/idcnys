@@ -43,12 +43,13 @@
 
 <table width="100%">
   <tr>
-    <td width="70%" align="center">
+    <td width="65%" align="center">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=idcnys&theme=nord_bright" style="max-width: 100%;">
     </td>
-    <td width="30%" align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=idcnys&theme=nord_bright&utcOffset=8" style="max-width: 100%;">
-    </td>
+    <td width="35%" align="center">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=idcnys&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="max-width: 100%;">
+ 
+</td>
   </tr>
 </table>
 
