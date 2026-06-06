@@ -36,8 +36,9 @@
       </a>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=idcnys&show_icons=true" alt="GitHub Stats" />
-    </td>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=idcnys&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="idcnys's GitHub Stats" />
+   
+  </td>
   </tr>
 </table>
 
